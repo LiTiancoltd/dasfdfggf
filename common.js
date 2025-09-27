@@ -2,7 +2,7 @@ function loadUrl()
 {
 	if(num>=1)
 	{
-		var url="https://";
+		var url="https://google.com";
 		window.location=url;
 	}
 }
@@ -13,3 +13,4 @@ function getLoad()
 	num++;
 
 }
+
